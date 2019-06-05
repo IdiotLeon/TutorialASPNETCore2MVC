@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialASPNETCore2MVC", "TutorialASPNETCore2MVC\TutorialASPNETCore2MVC.csproj", "{0298E5C6-D8F7-47B2-89D4-2323EA27083F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0298E5C6-D8F7-47B2-89D4-2323EA27083F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0298E5C6-D8F7-47B2-89D4-2323EA27083F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0298E5C6-D8F7-47B2-89D4-2323EA27083F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0298E5C6-D8F7-47B2-89D4-2323EA27083F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
